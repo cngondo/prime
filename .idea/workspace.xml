@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84ed5b3f-5e3d-4c4a-bd0e-aff3aef03209" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FizzBuzz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PrintTwenty.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/prime/Prime.class" afterPath="$PROJECT_DIR$/out/production/prime/Prime.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/prime/Sumfifteen.class" afterPath="$PROJECT_DIR$/out/production/prime/Sumfifteen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Prime.java" afterPath="$PROJECT_DIR$/src/Prime.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -29,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Prime.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Prime.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Prime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -43,7 +40,17 @@
         <entry file="file://$PROJECT_DIR$/src/PrintTwenty.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PrimeNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17142858">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -93,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/Sumfifteen.java" />
         <option value="$PROJECT_DIR$/src/PrintTwenty.java" />
         <option value="$PROJECT_DIR$/src/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/PrimeNumbers.java" />
         <option value="$PROJECT_DIR$/src/Prime.java" />
       </list>
     </option>
@@ -362,7 +370,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446660763632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added print Twenty and Fizz buzz">
+      <created>1447405835899</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1447405835899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -407,7 +421,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Prime and sum_fifteen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prime and sum_fifteen" />
+    <MESSAGE value="Added print Twenty and Fizz buzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added print Twenty and Fizz buzz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -444,15 +459,15 @@
     <entry file="file://$PROJECT_DIR$/src/PrintTwenty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sumfifteen.java">
+    <entry file="file://$PROJECT_DIR$/src/Prime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="58" />
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -465,10 +480,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prime.java">
+    <entry file="file://$PROJECT_DIR$/src/Sumfifteen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrimeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17142858">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding />
         </state>
       </provider>

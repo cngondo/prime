@@ -11,9 +11,11 @@ public class Prime {
     public static void main(String [] args){
 //        Scanner scanner = new Scanner(System.in);
 //        Calls the Sumfifteen class
-        new Sumfifteen();
-        new PrintTwenty();
-        new FizzBuzz();
+//        new Sumfifteen();
+//        new PrintTwenty();
+//        new FizzBuzz();
+          new PrimeNumbers();
+
 
     }
 }
