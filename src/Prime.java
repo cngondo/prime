@@ -14,8 +14,7 @@ public class Prime {
 //        new Sumfifteen();
 //        new PrintTwenty();
 //        new FizzBuzz();
-          new PrimeNumbers();
-
-
+//          new PrimeNumbers();
+          new PowersOfTwo().powers(45);
     }
 }
