@@ -15,6 +15,8 @@ public class Prime {
 //        new PrintTwenty();
 //        new FizzBuzz();
 //          new PrimeNumbers();
-          new PowersOfTwo().powers(45);
+//          new PowersOfTwo().powers(45);
+//        new LeapYears();
+        new SumToN();
     }
 }

@@ -7,7 +7,6 @@ public class PowersOfTwo {
            System.out.print("False");
            return;
        }
-
        while(true){
            if(num==1){
                System.out.print("True");
